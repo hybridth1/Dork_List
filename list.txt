@@ -1,0 +1,11 @@
+bypass
+1.inurl:admin intitle:login
+2.inurl:admin/login.php
+3.inurl:pages/login.php intitle:admin
+4.inurl:master intitle:"login admin"
+5.inurl:admin/cp.php intitle:login 
+6.inurl:administrator intitle:panel
+7.inurl:login.php intitle:panel admin
+8.inurl:login.php intext:admin site:.th .cn .in .nl .pl
+9.inurl:admin/dashboard.php intitle:login
+10.inurl:home intitle:login admin
