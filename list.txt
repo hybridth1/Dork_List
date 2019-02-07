@@ -1,4 +1,5 @@
 bypass
+
 1.inurl:admin intitle:login
 2.inurl:admin/login.php
 3.inurl:pages/login.php intitle:admin
@@ -9,3 +10,18 @@ bypass
 8.inurl:login.php intext:admin site:.th .cn .in .nl .pl
 9.inurl:admin/dashboard.php intitle:login
 10.inurl:home intitle:login admin
+
+
+sql injection
+
+1.articles_details.php?id=
+2.articles_detail.php?id=
+3.homedetails.php?id=
+4.gallery_info?id=
+5.lab_details.php?id=
+6.banner_details.php?id=
+7.result.php?id=
+8.result_details.php?id=
+9.adminision.php?id=
+10.staff_details.php?id=
+11.staffdetails.php?id=
